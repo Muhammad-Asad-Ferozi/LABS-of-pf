@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\Ali Computers\Desktop\lab2\task7\task7\Source.c(5,9): warning C4076: 'signed': cannot be used with type 'float'
+C:\Users\Ali Computers\Desktop\lab2\task7\task7\Source.c(9,8): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'int *'
+C:\Users\Ali Computers\Desktop\lab2\task7\task7\Source.c(12,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ali Computers\Desktop\lab2\task7\task7\Source.c(16,9): warning C4477: 'printf' : format string '%.2f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+C:\Users\Ali Computers\Desktop\lab2\task7\task7\Source.c(17,9): warning C4477: 'printf' : format string '%.2f' requires an argument of type 'double', but variadic argument 1 has type 'int'
+  task7.vcxproj -> C:\Users\Ali Computers\Desktop\lab2\task7\Debug\task7.exe
